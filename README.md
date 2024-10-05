@@ -12,7 +12,7 @@ In this repository, we mainly focus on deep learning based robot manipultion and
 | :triangular_flag_on_post: 05 | **CoRL** | Trust the PRoC3S: Solving Long-Horizon Robot Manipulation Tasks via Programmatic Language Models | [Paper](https://openreview.net/forum?id=lZVBdrEWoS) |
 | :triangular_flag_on_post: 06 | **CoRL** | Contrastive Imitation Learning for Language-guided Multi-Task Robotic Manipulation | [Paper](https://openreview.net/forum?id=QPQxJ83ZfU) | 
 | :triangular_flag_on_post: 07 | **CoRL** | GraspSplats: Efficient Manipulation via Implicit Scene Representation and Open-Vocabulary Querying | [Paper](https://openreview.net/forum?id=Ov9Rb51n0X) |
-| :triangular_flag_on_post: 08 | **CoRL** | FlowRetrieval: Flow-Guided Planning and Retrieval for Category-Level Imitation Learning | [Paper](https://openreview.net/pdf?id=p-O9lBAb4s) | 
+| :triangular_flag_on_post: 08 | **CoRL** | FlowRetrieval: Flow-Guided Planning and Retrieval for Category-Level Imitation Learning | [Paper](https://openreview.net/pdf?id=p-O9lBAb4s)/[Website](https://flow-retrieval.github.io)
 | :triangular_flag_on_post: 09 | **CoRL** | Equivariant Diffusion Policies for Offline Robot Learning | [Paper](https://openreview.net/forum?id=8Y9J8z5322) |
 | :triangular_flag_on_post: 10 | **CoRL** | Teaching Robots with Show and Tell: Learning Multi-Step Tasks from Demonstrations with Vision, Language, and Sound | [Paper](https://openreview.net/forum?id=q2ZtoB0w9M) | 
 | :triangular_flag_on_post: 11 | **CoRL** | Reasoning Grasping via Multimodal Large Language Model  | [Paper](https://openreview.net/forum?id=xMlgkql64E) |
